@@ -4,3 +4,5 @@ salt-master:
   config_dir: .
 salt-key:
   config_dir: .
+salt-run:
+  config_dir: .
